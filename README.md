@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a computer science student. I love cycling.
 <!--
 **YuKwanWing/YuKwanWIng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
